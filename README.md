@@ -1,2 +1,2 @@
 # pet_auto_battler
-Pet auto batter game using java!
+Pet auto battler game using java!
